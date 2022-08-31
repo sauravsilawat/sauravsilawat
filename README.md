@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?w=1060&t=st=1661959629~exp=1661960229~hmac=8bf1c76c6cd14810fc7eb296db7da379b6b633c4348d1ead6bce9121b3a6678b)](https://sauravsilawat.io)
+[![MasterHead](https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?w=1380&t=st=1661959912~exp=1661960512~hmac=0be6eb94a1dc789efe47dc9993996bfdb6775c19a23a0aaf822e06bc956c1035)](https://sauravsilawat.io)
 <h1 align="center">Hi 👋, I'm Saurav Singh Silawat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
