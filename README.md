@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://sauravsilawat.io)
+[![MasterHead](https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?w=1060&t=st=1661959629~exp=1661960229~hmac=8bf1c76c6cd14810fc7eb296db7da379b6b633c4348d1ead6bce9121b3a6678b)](https://sauravsilawat.io)
 <h1 align="center">Hi 👋, I'm Saurav Singh Silawat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
