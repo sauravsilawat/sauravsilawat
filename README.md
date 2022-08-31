@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://sauravsilawat.io)
 <h1 align="center">Hi 👋, I'm Saurav Singh Silawat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding-img" scr="[https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif](https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://twitter.com/sauravsilawat" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsilawat?logo=twitter&style=for-the-badge" alt="sauravsilawat" /></a> </p>
 
