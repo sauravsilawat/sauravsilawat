@@ -1,13 +1,11 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://sauravsilawat.io)
 <h1 align="center">Hi 👋, I'm Saurav Singh Silawat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding-img" width="400" scr="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravsilawat" alt="sauravsilawat" /></a> </p>
+<img align="right" alt="coding-img" width="400" scr="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/sauravsilawat" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsilawat?logo=twitter&style=for-the-badge" alt="sauravsilawat" /></a> </p>
 
-- 🌱 I’m currently learning **React and backend**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react, MERN**
 
