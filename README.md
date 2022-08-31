@@ -15,8 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/sauravsilawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sauravsilawat" height="30" width="40" /></a>
 <a href="https://twitter.com/sauravsilawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravsilawat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurav singh silawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav singh silawat" height="30" width="40" /></a>
-<a href="https://fb.com/saurav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurav singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurav-singh-silawat-825948182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav singh silawat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saurav786silaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurav786silaw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurav786silawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurav786silawat" height="30" width="40" /></a>
 </p>
