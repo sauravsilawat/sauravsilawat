@@ -1,4 +1,4 @@
-[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif](https://www.behance.net/gallery/107642307/Google-Open-Roberta/modules/617042439))](https://sauravsilawat.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://sauravsilawat.io)
 <h1 align="center">Hi 👋, I'm Saurav Singh Silawat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
