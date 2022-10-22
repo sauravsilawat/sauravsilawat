@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react, MERN**
+- 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **silawatsaurav@gmail.com**
 
